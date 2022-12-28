@@ -1,0 +1,11 @@
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\bin\Debug\Змейка.exe.config
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\bin\Debug\Змейка.exe
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\bin\Debug\Змейка.pdb
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\obj\Debug\Змейка.csproj.AssemblyReference.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\obj\Debug\Змейка.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\obj\Debug\Змейка.Form1.resources
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\obj\Debug\Змейка.Properties.Resources.resources
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\obj\Debug\Змейка.csproj.GenerateResource.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\obj\Debug\Змейка.csproj.CoreCompileInputs.cache
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\obj\Debug\Змейка.exe
+C:\Users\Mr. EHoT\Desktop\Учёба\Проекты\Змейка\obj\Debug\Змейка.pdb
